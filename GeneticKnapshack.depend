@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1528127814 source:c:\users\excp0035\desktop\convolutioncpp\geneticknapshack\evolucionsimple.cpp
+	"evolucionSimple.hpp"
+
+1528121539 c:\users\excp0035\desktop\convolutioncpp\geneticknapshack\evolucionsimple.hpp
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	<iostream>
+
+1528125871 source:c:\users\excp0035\desktop\convolutioncpp\geneticknapshack\principal.cpp
+	<vector>
+	<iostream>
+	"evolucionSimple.hpp"
+
